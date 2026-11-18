@@ -5,7 +5,7 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.example.flutter_workshop",
+      "package_name": "com.example.go_router_lec",
       "sha256_cert_fingerprints": [
         "58:E4:64:A2:66:50:E5:DE:66:45:35:A0:95:76:18:82:EA:5C:16:E1:84:21:01:96:14:9D:C2:71:B9:36:71:DE"
       ]
